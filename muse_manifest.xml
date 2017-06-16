@@ -1,0 +1,178 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Weebit.com" resolutions="1x" timestamp="1497601188060">
+  <folder name="assets">
+    <file name="animation.mov" crc="121406837" seo="true" mt="1497600275000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4093854368" ref="anime:berserk:index:manga:about:kimi-no-na-wa:fma:community:watch:koe-no-katachi"/>
+    <file name="anime.css" crc="4028734463" ref="anime"/>
+    <file name="berserk.css" crc="3977175571" ref="berserk"/>
+    <file name="index.css" crc="3959666841" ref="index"/>
+    <file name="iefonts_index.css" crc="36032170" ref="index"/>
+    <file name="manga.css" crc="288053275" ref="manga"/>
+    <file name="about.css" crc="4099909659" ref="about"/>
+    <file name="kimi-no-na-wa.css" crc="3793140816" ref="kimi-no-na-wa"/>
+    <file name="fma.css" crc="4026347441" ref="fma"/>
+    <file name="community.css" crc="3906482912" ref="community"/>
+    <file name="watch.css" crc="3871018519" ref="watch"/>
+    <file name="koe-no-katachi.css" crc="3896077751" ref="koe-no-katachi"/>
+    <file name="iefonts_koe-no-katachi.css" crc="4159191909" ref="koe-no-katachi"/>
+    <file name="iefonts_kimi-no-na-wa.css" crc="462922650" ref="kimi-no-na-wa"/>
+    <file name="iefonts_fma.css" crc="50797766" ref="fma"/>
+    <file name="iefonts_berserk.css" crc="426583617" ref="berserk"/>
+    <file name="iefonts_watch.css" crc="4179474314" ref="watch"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi"/>
+    <file name="museutils.js" crc="46400467" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi"/>
+    <file name="whatinput.js" crc="86476730" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi"/>
+    <file name="museconfig.js" crc="436936948" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi"/>
+    <file name="html5shiv.js" crc="4241844378" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi"/>
+    <file name="require.js" crc="85721165" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="3881535980" seo="true" ref="watch:index:about:community:anime:manga:kimi-no-na-wa:berserk:fma:koe-no-katachi">
+      <caption webpage="anime" alt=""/>
+      <caption webpage="jojo" alt=""/>
+      <caption webpage="fma" alt=""/>
+      <caption webpage="manga" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="koe-no-katachi" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="kimi-no-na-wa" alt=""/>
+      <caption webpage="watch" alt=""/>
+      <caption webpage="berserk" alt=""/>
+      <caption webpage="community" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="watch">
+      <caption webpage="watch" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="watch">
+      <caption webpage="watch" alt=""/>
+      <caption webpage="watch" alt=""/>
+    </file>
+    <file name="9453.jpg" crc="476845517" seo="true" ref="watch">
+      <caption webpage="watch" alt=""/>
+    </file>
+    <file name="82656.jpg" crc="4235617861" seo="true" ref="watch">
+      <caption webpage="watch" alt=""/>
+    </file>
+    <file name="61039.jpg" crc="414402455" seo="true" ref="watch">
+      <caption webpage="watch" alt=""/>
+    </file>
+    <file name="55867.jpg" crc="4289197266" seo="true" ref="watch">
+      <caption webpage="watch" alt=""/>
+    </file>
+    <file name="1497346333-9ca827182f6786b92a6cbc60538b6251.jpg" crc="3852274795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1496979682-5070b36e3230f9f881c58afbf3c7687d.png" crc="3842723305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1490518249-5d13511127a6b3e60093cd8e37415524.jpg" crc="3797619318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1490405297-ee1b7a2e636a0919e0ed37f4d2ab46d1.jpg" crc="3792350682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flipanimcom-8brldqqq.gif" crc="106812475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1927.png" crc="3818115832" ref="index"/>
+    <file name="5551707-352-k519179.jpg" crc="437912387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eyj1cmwioijodhrwczovl2rpc2nvcmquc3rvcmfnzs5nb29nbgvhcglzlmnvbs9hdhrhy2htzw50cy8ymdizmzyzmzk3mtczotazmzyvmjy2ota4ntkymta2nta0mtk3l3hiy3h6uhiucg5nin0.jpg" crc="29900958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1b2.jpg" crc="373097741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2083.png" crc="3818115832" ref="index"/>
+    <file name="icon-ios7-search-strong-128.png" crc="3897059872" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="imgres-1.png" crc="369565145" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="55509b4e6f08286d2b8737eb_55509c90b276ed9b60d13efc_320.jpg" crc="3775493285" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="7e54b2abec87759e128a0b38970c2bcc.jpg" crc="4177329685" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="camera-icon-estilizado-nofeet-nohandle.png" crc="463976563" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="ejwfwdenhcamanbdgiba4ks4dqgcbgvc69fldr_3vupdtzruktl5amgxp7gyzhkr1qlrgpuucv6s03ggisr0pqulgwnog4ueu7fbo0clfg0ft47shut2jyhisffwmp69qt8fbygivg.jpg" crc="290038685" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="images.png" crc="3920406764" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="avatar_2bf8c9f5af93_128.jpg" crc="525054663" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u1292.png" crc="3999384522" ref="about"/>
+    <file name="79999.jpg" crc="302860036" seo="true" ref="anime">
+      <caption webpage="anime" alt=""/>
+    </file>
+    <file name="fma.jpg" crc="171772145" seo="true" ref="anime">
+      <caption webpage="anime" alt=""/>
+    </file>
+    <file name="a16661-26874113501468084265.jpg" crc="328210630" seo="true" ref="anime">
+      <caption webpage="anime" alt=""/>
+    </file>
+    <file name="imgres.jpg" crc="522969622" seo="true" ref="anime">
+      <caption webpage="anime" alt=""/>
+    </file>
+    <file name="nw5iqz7.jpg" crc="324819850" seo="true" ref="manga">
+      <caption webpage="manga" alt=""/>
+    </file>
+    <file name="27600.jpg" crc="4174134420" seo="true" ref="manga">
+      <caption webpage="manga" alt=""/>
+    </file>
+    <file name="179882.jpg" crc="4134628202" seo="true" ref="manga">
+      <caption webpage="manga" alt=""/>
+    </file>
+    <file name="utsuronohako_vol1_small_2858.jpg" crc="4269103691" seo="true" ref="manga">
+      <caption webpage="manga" alt=""/>
+    </file>
+    <file name="u995.png" crc="296027408" ref="kimi-no-na-wa"/>
+    <file name="u1023.png" crc="296027408" ref="kimi-no-na-wa"/>
+    <file name="85385.jpg" crc="4265078010" seo="true" ref="kimi-no-na-wa">
+      <caption webpage="kimi-no-na-wa" alt=""/>
+    </file>
+    <file name="u1008.png" crc="296027408" ref="kimi-no-na-wa"/>
+    <file name="u1754.png" crc="296027408" ref="koe-no-katachi"/>
+    <file name="u1758.png" crc="296027408" ref="koe-no-katachi"/>
+    <file name="79634.jpg" crc="4039915351" seo="true" ref="koe-no-katachi">
+      <caption webpage="koe-no-katachi" alt=""/>
+    </file>
+    <file name="u1755.png" crc="296027408" ref="koe-no-katachi"/>
+    <file name="u1713.png" crc="296027408" ref="fma"/>
+    <file name="u1717.png" crc="296027408" ref="fma"/>
+    <file name="74317.jpg" crc="4236512134" seo="true" ref="fma">
+      <caption webpage="fma" alt=""/>
+    </file>
+    <file name="u1714.png" crc="296027408" ref="fma"/>
+    <file name="u1798.png" crc="296027408" ref="berserk"/>
+    <file name="u1802.png" crc="296027408" ref="berserk"/>
+    <file name="157931.jpg" crc="4163872347" seo="true" ref="berserk">
+      <caption webpage="berserk" alt=""/>
+    </file>
+    <file name="u1799.png" crc="296027408" ref="berserk"/>
+  </folder>
+  <file name="watch.html" crc="4207167653" seo="true" mt="1497598945269" redirect="true"/>
+  <file name="index.html" crc="3894708035" seo="true" mt="1497601062759" redirect="true"/>
+  <file name="about.html" crc="489435717" seo="true" mt="1497583741560" redirect="true"/>
+  <file name="community.html" crc="33661755" seo="true" mt="1497583741560" redirect="true"/>
+  <file name="anime.html" crc="187493316" seo="true" mt="1497598680515" redirect="true"/>
+  <file name="manga.html" crc="3797485305" seo="true" mt="1497598700196" redirect="true"/>
+  <file name="kimi-no-na-wa.html" crc="3886455658" seo="true" mt="1497583741560" redirect="true"/>
+  <file name="berserk.html" crc="131153736" seo="true" mt="1497583846450" redirect="true"/>
+  <file name="fma.html" crc="3797882716" seo="true" mt="1497583741560" redirect="true"/>
+  <file name="koe-no-katachi.html" crc="212202774" seo="true" mt="1497583741560" redirect="true"/>
+</manifest>
